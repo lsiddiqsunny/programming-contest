@@ -1,1 +1,2 @@
-# programming-contest
+# Programming-contest
+Solved problems and resources.
