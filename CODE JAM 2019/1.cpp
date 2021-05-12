@@ -34,10 +34,5 @@ int main()
             else cout<<'0';
         }
         cout<<"\n";
-
-
-
     }
-
-
 }
